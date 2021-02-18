@@ -1,2 +1,2 @@
 # PyDISORT3
-PyDISORT for python version 3.x. The original python2 version is here: https://github.com/chanGimeno/pyDISORT
+PyDISORT to run DISORT in python version 3.x. The original python2 version by Chan Gimeno is here: https://github.com/chanGimeno/pyDISORT
